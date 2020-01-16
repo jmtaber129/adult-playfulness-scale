@@ -1,0 +1,203 @@
+{
+  "subscales": {
+    "spontaneous": 42,
+    "expressive": 42,
+    "fun": 35,
+    "creative": 21,
+    "silly": 35
+  },
+  "wordPairs": [
+    {
+      "left": "adventurous",
+      "right": "purposeful",
+      "reversed": false,
+      "subscale": "spontaneous"
+    },
+    {
+      "left": "animated",
+      "right": "passive",
+      "reversed": false,
+      "subscale": "expressive"
+    },
+    {
+      "left": "bouncy",
+      "right": "staid",
+      "reversed": false,
+      "subscale": "expressive"
+    },
+    {
+      "left": "calm",
+      "right": "agitated",
+      "reversed": false,
+      "subscale": "foo"
+    },
+    {
+      "left": "bright",
+      "right": "dull",
+      "reversed": false,
+      "subscale": "fun"
+    },
+    {
+      "left": "carefree",
+      "right": "careful",
+      "reversed": false,
+      "subscale": "spontaneous"
+    },
+    {
+      "left": "childlike",
+      "right": "mature",
+      "reversed": false,
+      "subscale": "silly"
+    },
+    {
+      "left": "easy",
+      "right": "austere",
+      "reversed": false,
+      "subscale": "foo"
+    },
+    {
+      "left": "excitable",
+      "right": "serene",
+      "reversed": false,
+      "subscale": "expressive"
+    },
+    {
+      "left": "expressive",
+      "right": "self-controlled",
+      "reversed": false,
+      "subscale": "expressive"
+    },
+    {
+      "left": "free-spirited",
+      "right": "disciplined",
+      "reversed": false,
+      "subscale": "spontaneous"
+    },
+    {
+      "left": "happy",
+      "right": "sad",
+      "reversed": false,
+      "subscale": "foo"
+    },
+    {
+      "left": "empty",
+      "right": "full",
+      "reversed": false,
+      "subscale": "foo"
+    },
+    {
+      "left": "frivolous",
+      "right": "productive",
+      "reversed": false,
+      "subscale": "silly"
+    },
+    {
+      "left": "relaxed",
+      "right": "tense",
+      "reversed": false,
+      "subscale": "foo"
+    },
+    {
+      "left": "bright",
+      "right": "dark",
+      "reversed": false,
+      "subscale": "fun"
+    },
+    {
+      "left": "fun",
+      "right": "earnest",
+      "reversed": false,
+      "subscale": "spontaneous"
+    },
+    {
+      "left": "active",
+      "right": "passive",
+      "reversed": false,
+      "subscale": "creative"
+    },
+    {
+      "left": "impulsive",
+      "right": "diligent",
+      "reversed": false,
+      "subscale": "spontaneous"
+    },
+    {
+      "left": "fast",
+      "right": "slow",
+      "reversed": false,
+      "subscale": "foo"
+    },
+    {
+      "left": "open",
+      "right": "reserved",
+      "reversed": false,
+      "subscale": "expressive"
+    },
+    {
+      "left": "silly",
+      "right": "sensible",
+      "reversed": false,
+      "subscale": "silly"
+    },
+    {
+      "left": "creative",
+      "right": "uncreative",
+      "reversed": false,
+      "subscale": "creative"
+    },
+    {
+      "left": "spontaneous",
+      "right": "disciplined",
+      "reversed": false,
+      "subscale": "spontaneous"
+    },
+    {
+      "left": "whimsical",
+      "right": "practical",
+      "reversed": false,
+      "subscale": "silly"
+    },
+    {
+      "left": "emotional",
+      "right": "intellectual",
+      "reversed": false,
+      "subscale": "expressive"
+    },
+    {
+      "left": "imaginative",
+      "right": "unimaginative",
+      "reversed": false,
+      "subscale": "creative"
+    },
+    {
+      "left": "predictable",
+      "right": "unpredictable",
+      "reversed": true,
+      "subscale": "silly"
+    },
+    {
+      "left": "fun",
+      "right": "boring",
+      "reversed": false,
+      "subscale": "fun"
+    },
+    {
+      "left": "serious",
+      "right": "playful",
+      "reversed": true,
+      "subscale": "fun"
+    },
+    {
+      "left": "exciting",
+      "right": "dull",
+      "reversed": false,
+      "subscale": "fun"
+    },
+    {
+      "left": "competitive",
+      "right": "cooperative",
+      "reversed": false,
+      "subscale": "foo"
+    }
+  ]
+}
