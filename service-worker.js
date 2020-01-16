@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/adult-playfulness-scale/precache-manifest.a1b0ff059f8c90384b4c3d950fd2d571.js"
+  "/adult-playfulness-scale/precache-manifest.f35dd70a3e1cb34ddb8c47d5a61bbefd.js"
 );
 
 self.addEventListener('message', (event) => {
