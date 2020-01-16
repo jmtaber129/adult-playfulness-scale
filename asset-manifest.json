@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/adult-playfulness-scale/static/css/main.d1b05096.chunk.css",
+    "main.js": "/adult-playfulness-scale/static/js/main.edbac14c.chunk.js",
+    "main.js.map": "/adult-playfulness-scale/static/js/main.edbac14c.chunk.js.map",
+    "runtime-main.js": "/adult-playfulness-scale/static/js/runtime-main.2db40570.js",
+    "runtime-main.js.map": "/adult-playfulness-scale/static/js/runtime-main.2db40570.js.map",
+    "static/js/2.c39a7159.chunk.js": "/adult-playfulness-scale/static/js/2.c39a7159.chunk.js",
+    "static/js/2.c39a7159.chunk.js.map": "/adult-playfulness-scale/static/js/2.c39a7159.chunk.js.map",
+    "index.html": "/adult-playfulness-scale/index.html",
+    "precache-manifest.a1b0ff059f8c90384b4c3d950fd2d571.js": "/adult-playfulness-scale/precache-manifest.a1b0ff059f8c90384b4c3d950fd2d571.js",
+    "service-worker.js": "/adult-playfulness-scale/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/adult-playfulness-scale/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c39a7159.chunk.js.LICENSE": "/adult-playfulness-scale/static/js/2.c39a7159.chunk.js.LICENSE",
+    "static/media/logo.svg": "/adult-playfulness-scale/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2db40570.js",
+    "static/js/2.c39a7159.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.edbac14c.chunk.js"
+  ]
+}
