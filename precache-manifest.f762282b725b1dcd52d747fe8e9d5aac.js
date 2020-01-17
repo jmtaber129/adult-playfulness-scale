@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90da48b090f51fadc92a02eab59494d5",
+    "revision": "a82effa69e9bde27a3908969b8e38e01",
     "url": "/adult-playfulness-scale/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adult-playfulness-scale/static/css/2.67123b20.chunk.css"
   },
   {
-    "revision": "044dddbf70d4fc6cf9db",
+    "revision": "878028897f380e81c313",
     "url": "/adult-playfulness-scale/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adult-playfulness-scale/static/js/2.b6a50ca0.chunk.js.LICENSE"
   },
   {
-    "revision": "044dddbf70d4fc6cf9db",
-    "url": "/adult-playfulness-scale/static/js/main.6cf390e4.chunk.js"
+    "revision": "878028897f380e81c313",
+    "url": "/adult-playfulness-scale/static/js/main.c6d7e65a.chunk.js"
   },
   {
     "revision": "b40dd463db121957f8bf",
