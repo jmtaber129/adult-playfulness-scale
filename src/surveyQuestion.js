@@ -13,7 +13,7 @@ export class SurveyQuestion extends React.Component {
   }
 
   getOrderedScores() {
-    const nums = Array.from(Array(7).keys()).map(el => el + 1);
+    const nums = Array.from(Array(7).keys()).map(el => el);
     if (this.props.reversed) {
       return nums;
     }

@@ -5,7 +5,7 @@ import { connect } from 'react-redux';
 
 const wordPairs = require('./wordPairs.json');
 
-const OVERALL_DIVISOR = 224;
+const OVERALL_DIVISOR = 192;
 
 const resultsFromAnswers = (answers) => {
   console.log(Object.values(answers));
